@@ -85,7 +85,5 @@ DeviceFileEvents
 ---
 
 ## Additional Notes:
-- **None**
 
----
 
